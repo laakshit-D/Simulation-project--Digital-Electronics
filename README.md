@@ -18,8 +18,8 @@ A Karnaugh map (K-map) is a visual method used to simplify the algebraic express
 # PROGRAM
 ```
 /* 
-Name:Vasanthamukilan.M
-Reg No:212222230167
+Name: LAAKSHIT D
+Reg No:212222230071
 */
 module assignment1 (x,y,z,f);
 input x,y,z;
